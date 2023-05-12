@@ -5,7 +5,7 @@ And... I'm a kind programmer
 ----------------------------
 
 <a href="https://vk.com/dobryiinf" target="_blank" rel="noreferrer"><img
-src="https://github.com/Gmel2004/Gmel2004/blob/main/vk-icon.png"
+src="https://github.com/Gmel2004/Gmel2004/blob/main/vk-icon.png" width="36" height="36"
 /></a>
 
 ### Skills
