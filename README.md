@@ -4,10 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 And... I'm a kind programmer
 ----------------------------
 
-<a href="https://vk.com/dobryiinf" target="_blank" rel="noreferrer"><img
-src="https://github.com/Gmel2004/Gmel2004/blob/main/Subscribe.gif" width="911" height="364"
-/></a>
-
 ### Skills
 
 
