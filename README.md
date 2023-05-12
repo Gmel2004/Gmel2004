@@ -1,5 +1,9 @@
-Hello, my name is Gleb! And... I'm a kind programmer :D ![](https://github.com/Gmel2004/Gmel2004/blob/main/Progger.gif) 
+Hello, my name is Gleb! And... I'm a kind programmer :D
 ============================================================================================================================
+<p align="center">
+<img src= https://github.com/Gmel2004/Gmel2004/blob/main/Progger.gif width="180" height="180" alt="Chel" />
+</p>
+
 
 ### Skills
 
